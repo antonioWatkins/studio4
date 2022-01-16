@@ -1,0 +1,16 @@
+
+menu will have food name, price, description, type ,day, and new item;
+
+there is a potential to create hashmaps for this.
+
+food: price
+
+day: newItems
+
+
+there is a potential to have the app check the day. and check the day agaisnt the date
+assoicated with fooditem.
+
+if day is less than 30 days old count it as new. if not say nothing.
+
+honestly menu and type should be the same thing. so if someoen wants to go to the dessert menu they can do that.
